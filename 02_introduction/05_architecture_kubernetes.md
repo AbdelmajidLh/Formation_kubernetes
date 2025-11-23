@@ -16,4 +16,4 @@ Exemple: on deploie WordPress. Si le site recoit des millions de visites, un seu
 ## kubectl (client)
 kubectl ne fait pas partie du control plane: c'est l'outil avec lequel nous parlons au serveur API pour administrer le cluster.
 
-![Schema control plane](src/imgs/kubernetes_control_plan.png)
+[Schema control plane](src/imgs/kubernetes_control_plan.png)
